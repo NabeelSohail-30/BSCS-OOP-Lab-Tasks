@@ -1,0 +1,6 @@
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\bin\Debug\sampleTest.exe.config
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\bin\Debug\sampleTest.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\bin\Debug\sampleTest.pdb
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\obj\Debug\sampleTest.csprojResolveAssemblyReference.cache
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\obj\Debug\sampleTest.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\sampleTest\obj\Debug\sampleTest.pdb

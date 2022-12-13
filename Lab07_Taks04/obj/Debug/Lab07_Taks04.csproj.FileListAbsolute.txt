@@ -1,0 +1,6 @@
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\bin\Debug\Lab07_Taks04.exe.config
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\bin\Debug\Lab07_Taks04.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\bin\Debug\Lab07_Taks04.pdb
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\obj\Debug\Lab07_Taks04.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\obj\Debug\Lab07_Taks04.pdb
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab07_Taks04\obj\Debug\Lab07_Taks04.csprojResolveAssemblyReference.cache

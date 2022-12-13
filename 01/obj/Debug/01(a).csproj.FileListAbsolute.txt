@@ -1,0 +1,3 @@
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\01\bin\Debug\01.exe.config
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\01\obj\Debug\01.exe
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\01\obj\Debug\01.pdb

@@ -1,0 +1,6 @@
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\bin\Debug\Lab01_Task01.exe.config
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\bin\Debug\Lab01_Task01.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\bin\Debug\Lab01_Task01.pdb
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\obj\Debug\Lab01_Task01.csprojResolveAssemblyReference.cache
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\obj\Debug\Lab01_Task01.exe
+E:\SSUET BSCS\2nd Semester\OOP\Lab\Lab File\LabFile\Lab01_Task01\obj\Debug\Lab01_Task01.pdb

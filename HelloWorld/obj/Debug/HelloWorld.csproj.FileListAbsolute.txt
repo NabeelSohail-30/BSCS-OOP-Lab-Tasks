@@ -1,0 +1,5 @@
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\HelloWorld\bin\Debug\HelloWorld.exe
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\HelloWorld\obj\Debug\HelloWorld.exe
+E:\SSUET BSCS\2nd Semester\OOP Lab\Lab File\LabFile\HelloWorld\obj\Debug\HelloWorld.pdb
